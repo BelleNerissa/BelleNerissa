@@ -12,7 +12,7 @@
   <a href="https://github.com/rafaballerini">
     <img width=400 height=270 align="center" src="https://github-readme-stats.vercel.app/api?username=BelleNerissa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
   </a>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/BelleNerissa">
     <img width=400 height=270 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelleNerissa&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
