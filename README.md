@@ -40,6 +40,8 @@
   <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
 </div>
 
+![snake gif](https://github.com/BelleNerissa/BelleNerissa/blob/output/github-contribution-grid-snake.gif)
+
   ##
 
 <div>
