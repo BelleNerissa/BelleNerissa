@@ -1,4 +1,4 @@
-## Hello there!👋 I'm Belle Nerissa 🧜‍♀️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=400&color=D76284&vCenter=true&random=false&width=435&height=80&lines=Welcome+to+my+page!%F0%9F%91%8B;I'm+Belle+Nerissa;Bem-vindos+a+minha+p%C3%A1gina!%F0%9F%91%8B;Sou+Belle+Nerissa)](https://git.io/typing-svg)
 <img align="right" width=150 height=150 alt="Belle-anime" src="https://cdn.discordapp.com/attachments/1209283321142452226/1209956444884045944/Whats_1.gif?ex=65e8cec0&is=65d659c0&hm=a3d048507dcee4532d1c0b05eca9d6f5d00a8e8c5561fe4f634f9bbf2a1bb18f&">
 
 - ✨ Open to work! ✨
